@@ -1,0 +1,8 @@
+.Links > nav {
+	display: flex;
+    flex-direction: column;
+}
+
+.Links > nav > a {
+    margin-top: 20px;
+}
